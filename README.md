@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<p align="left">
-    <a href="https://github.com/antigluten">
-        <img src="https://komarev.com/ghpvc/?username=antigluten&color=ffcdb2" alt="visitors">
-    </a>
-
-</p> 
-
 #### Bio
 
 🚀 I'm Vladimir Gusev, a 19 y.o. **junior iOS Developer** based in Saint-Petersburg, Russia.
