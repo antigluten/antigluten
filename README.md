@@ -1,16 +1,12 @@
-## Hi there 👋
+## Welcome 👋
 
 #### Bio
 
-🚀 I'm Vladimir Gusev, a 19 y.o. **junior iOS Developer** based in Saint-Petersburg, Russia.
+🚀 I'm Vladimir Gusev, a 20 y.o. **iOS Developer** based in Saint-Petersburg, Russia.
 
 🌱 I'm passionate on **iOS Development**, **Architectures**, **Problem solving** and learning all about it.
 
-🔭 I’m currently working on [droplane](https://github.com/antigluten/droplane).
-
-☕️ Worked on [CoffeeMap](https://github.com/coffee-map-vk-bootcamp/coffee-map) that helps to preorder coffee and deserts to avoid queue in cafés.
-
-👨🏻‍💻 I’m looking for a team and real-world projects to work and contribute with great people.
+🔭 I’m currently working at VK, developing the OK social network.
   
 #### Connect with me
 
